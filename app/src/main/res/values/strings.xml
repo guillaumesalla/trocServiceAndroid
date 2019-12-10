@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrocServices</string>
+    <string name="bienvenu">Bienvenu sur TrocServices</string>
+    <string name="connexion">Connexion</string>
+    <string name="creer_un_compte">Créer un compte</string>
+
+</resources>
